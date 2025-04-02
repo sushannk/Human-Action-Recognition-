@@ -61,34 +61,3 @@ Loss: Optimized with categorical cross-entropy
 
 Evaluation Metrics: Precision, Recall, and F1-score
 
-📦 Installation & Usage
-
-🔹 Clone the Repository
-
-git clone https://github.com/your-username/action-recognition.git
-cd action-recognition
-
-🔹 Install Dependencies
-
-pip install -r requirements.txt
-
-🔹 Train the Model
-
-python src/train.py
-
-🔹 Run Real-Time Action Recognition
-
-python src/realtime.py
-
-🔹 Launch Web App
-
-python src/app.py
-
-📜 License
-
-This project is licensed under the MIT License.
-
-✉️ Contact
-
-For any queries, reach out via LinkedIn or email your.email@example.com.
-
